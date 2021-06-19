@@ -40,7 +40,7 @@
 - [Java (Basic) Certificate - HackerRank](https://www.hackerrank.com/certificates/52b52262a482)
 - [SQL (Basic) Certificate - HackerRank](https://www.hackerrank.com/certificates/a1b811579178)
 
-## :trophy: My Github Stats:
+## :trophy: My GitHub Stats:
 
 ![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvishalprasad&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Vishal's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamvishalprasad&layout=compact&langs_count=8&hide_border=true)

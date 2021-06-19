@@ -42,8 +42,8 @@
 
 ## :trophy: My Github Stats:
 
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=iamvishalprasad&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=iamvishalprasad&hide=php&theme=tokyonight)
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvishalprasad&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Vishal's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamvishalprasad&layout=compact&langs_count=8&hide_border=true)
 
 ## 📫 Get in touch
 <p id="socialIcons" align="left">

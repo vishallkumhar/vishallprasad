@@ -6,7 +6,6 @@
 - 🏫 B.E focused in Electronics and Telecommunication Engineering from Mumbai University.
 - 🐍 I’m currently learning more about Python & Machine Learning.
 - 🚀 Data Science Enthusiast
-- 🥅 2021 Goals: Contribute more towards Open Source Projects.
 - 👨‍💻  I am passionate about Data Analyst & I enjoy learning new things.
 
 ## 🛠 Technologies I've been learning and using so far :

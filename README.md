@@ -45,13 +45,13 @@
         <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>
       <a href="mailto:vishal808prasad@gamil.com">
         <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-    <a href="https://instagram.com/mevishalprasad" alt="Instagram">
+    <a href="https://instagram.com/mevishallprasad" alt="Instagram">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
     <a href="http://www.twitter.com/mevishallprasad" alt="twitter">
         <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white" /></a>
     <a href="http://www.facebook.com/mevishallprasad" alt="facebook">
        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-square&logo=Facebook&logoColor=white" /></a>
-    <a href="https://www.youtube.com/vishallprasad" alt="Youtube">
+    <a href="https://www.youtube.com/@vishallprasad" alt="Youtube">
        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-square&logo=YouTube&logoColor=white" /></a>
 </p>
   

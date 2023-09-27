@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> <br> I'm Vishal Prasad, Full Stack Web Developer :computer:<br>
-![](https://visitor-badge.laobi.icu/badge?page_id=iamvishalprasad.iamvishalprasad)
-[![Github](https://img.shields.io/github/followers/iamvishalprasad?label=Followers&logo=Github)](https://github.com/iamvishalprasad)
+![](https://visitor-badge.laobi.icu/badge?page_id=vishallprasad.vishallprasad)
+[![Github](https://img.shields.io/github/followers/vishallprasad?label=Followers&logo=Github)](https://github.com/vishallprasad)
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> <br>
 
@@ -34,24 +34,24 @@
 - [Develop a Company Website with Wix - Coursera](https://coursera.org/share/57d6cb643c34d894238aca0598d76bae)
 
 ## :trophy: My GitHub Stats:
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvishalprasad&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Vishal's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamvishalprasad&layout=compact&langs_count=8&hide_border=true)
+![Vishall's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishallprasad&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Vishall's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishallprasad&layout=compact&langs_count=8&hide_border=true)
 
 ## 📫 Connect with me :
 <p id="socialIcons" align="left">
-    <a href="https://www.linkedin.com/in/iamvishalprasad/" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/vishallprasad/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-    <a href="https://hackerrank.com/iamvishalprasad" alt="HackerRank">
+    <a href="https://hackerrank.com/vishallprasad" alt="HackerRank">
         <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>
       <a href="mailto:vishal808prasad@gamil.com">
         <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-    <a href="https://instagram.com/iamvishal.prasad" alt="Instagram">
+    <a href="https://instagram.com/mevishalprasad" alt="Instagram">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-    <a href="http://www.twitter.com/iamVishalPrasad" alt="twitter">
+    <a href="http://www.twitter.com/mevishallprasad" alt="twitter">
         <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white" /></a>
-    <a href="http://www.facebook.com/iamvishal.prasad" alt="facebook">
+    <a href="http://www.facebook.com/mevishallprasad" alt="facebook">
        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-square&logo=Facebook&logoColor=white" /></a>
-    <a href="https://www.youtube.com/iamvishalprasad" alt="Youtube">
+    <a href="https://www.youtube.com/vishallprasad" alt="Youtube">
        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-square&logo=YouTube&logoColor=white" /></a>
 </p>
   

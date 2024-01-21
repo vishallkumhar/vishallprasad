@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> <br> I'm Vishall Prasad, Full Stack Web Developer :computer:<br>
-![](https://visitor-badge.laobi.icu/badge?page_id=vishallkumhar.vishallkumhar)
-[![Github](https://img.shields.io/github/followers/vishallkumhar?label=Followers&logo=Github)](https://github.com/vishallkumhar)
+![](https://visitor-badge.laobi.icu/badge?page_id=vishallprasad.vishallprasad)
+[![Github](https://img.shields.io/github/followers/vishallprasad?label=Followers&logo=Github)](https://github.com/vishallprasad)
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> <br>
 
@@ -34,12 +34,12 @@
 - [Develop a Company Website with Wix - Coursera](https://coursera.org/share/57d6cb643c34d894238aca0598d76bae)
 
 ## :trophy: My GitHub Stats:
-![Vishall's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishallkumhar&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Vishall's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishallkumhar&layout=compact&langs_count=8&hide_border=true)
+![Vishall's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishallprasad&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Vishall's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishallprasad&layout=compact&langs_count=8&hide_border=true)
 
 ## 📫 Connect with me :
 <p id="socialIcons" align="left">
-    <a href="https://www.linkedin.com/in/vishallkumhar/" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/vishallprasad/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
     <a href="https://hackerrank.com/vishallkumhar" alt="HackerRank">
         <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>

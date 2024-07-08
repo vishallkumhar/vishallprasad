@@ -41,8 +41,6 @@
 <p id="socialIcons" align="left">
     <a href="https://www.linkedin.com/in/vishallprasad/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-    <a href="https://hackerrank.com/vishallkumhar" alt="HackerRank">
-        <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>
       <a href="mailto:vishal808prasad@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
     <a href="https://instagram.com/vishall.kumhar" alt="Instagram">
